@@ -2,8 +2,6 @@
 calculadora simples
 
 x = True
-
-
 while x == True:
     try:
         def soma(a,b):
@@ -47,3 +45,7 @@ Digite qual operação deseja realizar: ''')
     except:
         print('Por favor digite apenas numeros!')
         continue
+# Ilustração do Codigo
+![image](https://github.com/Victor-Antonio-Santos/calculadora/assets/160191987/69604f28-b05b-4dec-b45e-1b1659a587ae)
+![image](https://github.com/Victor-Antonio-Santos/calculadora/assets/160191987/bd76e3c6-9f11-4dee-90de-24d20de70d09)
+
